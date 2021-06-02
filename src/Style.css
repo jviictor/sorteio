@@ -1,0 +1,61 @@
+#divTelaConfig{
+    margin-top: 15%;
+    border: 5px solid;
+    
+    
+}
+input{
+    width: 10%;
+
+}
+#inputNum1{
+    margin-left: 1%;
+}
+label{
+    font-size: 140%;
+}
+.btnClass{
+    font-size: 100%;
+    margin-left: 19%;
+    cursor: pointer;
+    
+}
+#check{
+    margin-left: 10.5%;
+    width: 3%;
+}
+#divTelaSorteio{
+    margin-top: 5%;
+    text-align: center;
+}
+#btnVoltar{
+   
+    font-size: 100%;
+    
+    cursor: pointer;
+    
+}
+#labelVoltar{
+    margin-left: 10%;
+   
+}
+#btnGerar{
+    font-size: 130%;
+    cursor: pointer;
+    background-color: green ;
+}
+hr{
+    width: 50%;
+    margin-right: 50%;
+}
+#telaS{
+    margin-left: 40%;
+    width: 200px;
+}
+#labNumero{
+    margin-left: 25%;
+
+}
+#btn1{
+    margin-left: 29%;
+}
